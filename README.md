@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue sur asyncrhone 👋</h1>
+<h1 align="center">Bienvenue sur asynchrone 👋</h1>
 <p>
   <a href="https://twitter.com/Gorski_anthony" target="_blank">
     <img alt="Twitter: Gorski_anthony" src="https://img.shields.io/twitter/follow/Gorski_anthony.svg?style=social" />
